@@ -1,0 +1,80 @@
+
+  Demonstrating Mock Persistance with XmlDocument
+ =================================================
+
+  Building Mock Database
+ ------------------------
+  key            name                description                 
+ -------------  ------------------  ---------------------------- 
+  first          first elem          test elem                     
+  second         second elem         test elem                     
+
+  Creating XML representation of Mock Database using XmlDocument
+ ----------------------------------------------------------------
+  <db>
+    <dbRecord>
+      <key>
+        first
+      </key>
+      <value>
+        <name>
+          first elem
+        </name>
+        <description>
+          test elem
+        </description>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        second
+      </key>
+      <value>
+        <name>
+          second elem
+        </name>
+        <description>
+          test elem
+        </description>
+      </value>
+    </dbRecord>
+  </db>
+
+  Creating XmlDocument from XML string
+ --------------------------------------
+  <db>
+    <dbRecord>
+      <key>
+        first
+      </key>
+      <value>
+        <name>
+          first elem
+        </name>
+        <description>
+          test elem
+        </description>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        second
+      </key>
+      <value>
+        <name>
+          second elem
+        </name>
+        <description>
+          test elem
+        </description>
+      </value>
+    </dbRecord>
+  </db>
+
+  Building MockDb from XmlDocument
+ ----------------------------------
+  key            name                description                 
+ -------------  ------------------  ---------------------------- 
+  first          first elem          test elem                     
+  second         second elem         test elem                     
+

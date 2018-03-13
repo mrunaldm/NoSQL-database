@@ -1,0 +1,173 @@
+
+  <db>
+    <dbRecord>
+      <key>
+        Fawcett
+      </key>
+      <value>
+        <name>
+          James
+        </name>
+        <description>
+          Professor at EECS
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Jim Fawcett
+          </path>
+          <category>
+            Class on Tue/Thu
+          </category>
+          <category>
+            Help session on Friday
+          </category>
+          <category>
+            OOD
+          </category>
+        </payload>
+        <children>
+          <child>
+            NY
+          </child>
+        </children>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Salman
+      </key>
+      <value>
+        <name>
+          Ammar
+        </name>
+        <description>
+          TA for Jim Fawcett
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Ammar Salman
+          </path>
+          <category>
+            OOD
+          </category>
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Sun
+      </key>
+      <value>
+        <name>
+          Jianan
+        </name>
+        <description>
+          TA for Jim Fawcett
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Name : Jianan Sun
+          </path>
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Prashar
+      </key>
+      <value>
+        <name>
+          Nikhil
+        </name>
+        <description>
+          TA for Jim Fawcett
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Name : Nikhil Prashar
+          </path>
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Arora
+      </key>
+      <value>
+        <name>
+          Pranjul
+        </name>
+        <description>
+          TA for Jim Fawcett
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Name : Pranjul Arora
+          </path>
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Dharmendra
+      </key>
+      <value>
+        <name>
+          Mrunal
+        </name>
+        <description>
+          Student of CSE687
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            Requirement satisfied
+          </path>
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        NY
+      </key>
+      <value>
+        <name>
+          New York
+        </name>
+        <description>
+          USA
+        </description>
+        <dateTime>
+          Fri Feb 23 17:58:03 2018
+        </dateTime>
+        <payload>
+          <path>
+            State of New York
+          </path>
+          <category>
+            NYC
+          </category>
+          <category>
+            Manhattan
+          </category>
+        </payload>
+      </value>
+    </dbRecord>
+  </db>
